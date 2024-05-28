@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class SelectTest {
+public class SelectTestGuru99 {
     public static void main(String[] args) throws InterruptedException {
         WebDriver driver = new FirefoxDriver();
         driver.get("https://demo.guru99.com/test/newtours/register.php?authuser=1");
